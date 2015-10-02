@@ -8,6 +8,9 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+# Evitar que las imágenes se suban al repositorio
+img/
+
 # Windows Installer files
 *.cab
 *.msi
